@@ -1,0 +1,7 @@
+interface:
+  display_name: "Use Responses"
+  short_description: "Direct response guardrails"
+  default_prompt: "Use $skill-name to respond directly with only what was asked, avoiding unsolicited recommendations, opinions, clarifications, and explanations unless the user explicitly asks for an explanation in that response."
+
+policy:
+  allow_implicit_invocation: true

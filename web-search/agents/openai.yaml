@@ -1,0 +1,7 @@
+interface:
+  display_name: "Web Search"
+  short_description: "Search the web through MCP providers and return verified links."
+  icon_small: "../../assets/websearch-logo.svg"
+  icon_large: "../../assets/websearch-logo.svg"
+  brand_color: "#0F766E"
+  default_prompt: "Use $web-search to search through MCP providers, fetch cited URLs, and return verified links only."

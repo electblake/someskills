@@ -1,0 +1,6 @@
+interface:
+  display_name: "Setup Python"
+  short_description: "Add or refresh strict mise and uv Python setup"
+  icon_small: "../../assets/python-logo.png"
+  icon_large: "../../assets/python-logo.png"
+  default_prompt: "Use $setup-python to set up or refresh this folder as a Python project."

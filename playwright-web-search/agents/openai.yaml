@@ -1,0 +1,7 @@
+interface:
+  display_name: "Playwright Web Search"
+  short_description: "Browser fallback search when MCP search providers fail or are blocked."
+  icon_small: "../../assets/websearch-logo.svg"
+  icon_large: "../../assets/websearch-logo.svg"
+  brand_color: "#0F766E"
+  default_prompt: "Use $playwright-web-search only after MCP search options fail, then verify opened result URLs."

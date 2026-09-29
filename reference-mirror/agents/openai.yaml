@@ -1,0 +1,4 @@
+interface:
+  display_name: "Reference Mirror"
+  short_description: "Capture official docs into dated local reference bundles."
+  default_prompt: "Use $reference-mirror to capture current official documentation for a tool or API into this repo's .agents/references bundles, checking official domains for llms.txt and saving faithful markdown mirrors."

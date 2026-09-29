@@ -1,0 +1,6 @@
+# yaml-language-server: $schema=../../../../codex-use/skills/codex-skills/assets/openai_codex_agents_openai_yaml_2026_05_05.schema.json
+interface:
+  display_name: "MarkItDown MCP"
+  short_description: "Convert files and URLs through MarkItDown MCP"
+  default_prompt: "Use $markitdown-mcp when the task needs document-to-Markdown conversion through the MarkItDown MCP server."
+

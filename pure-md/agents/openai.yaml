@@ -1,0 +1,5 @@
+interface:
+  display_name: "Pure.md"
+  short_description: "Fetch web content as Markdown via the pure.md API."
+  default_prompt: "Use $pure-md when downloading or caching web pages, docs, RFCs, specs, or other URLs as Markdown."
+

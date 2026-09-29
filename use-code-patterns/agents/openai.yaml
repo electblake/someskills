@@ -1,0 +1,4 @@
+interface:
+  display_name: "Use Code Patterns"
+  short_description: "Local-first coding pattern hub"
+  default_prompt: "Use $use-code-patterns to make a small code change that follows local patterns."

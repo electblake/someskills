@@ -1,0 +1,4 @@
+interface:
+  display_name: "PowerShell 7 Expert"
+  short_description: "Broad PowerShell 7 guidance for scripting, automation, shell compatibility, and runtime behavior."
+  default_prompt: "Use $powershell-7-expert for broad PowerShell scripting, pwsh troubleshooting, shell detection, cross-platform compatibility, and advanced PowerShell automation work."
